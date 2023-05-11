@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "nfce_tectoy_react",
+    "slug": "nfce_tectoy_react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
